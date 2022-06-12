@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Midnights:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Midnights_jar</output-path>
+    <root id="archive" name="Midnights.jar">
+      <element id="module-output" name="Midnights" />
+    </root>
+  </artifact>
+</component>

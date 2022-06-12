@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Naming convention:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Naming_convention_jar</output-path>
+    <root id="archive" name="Naming convention.jar">
+      <element id="module-output" name="Naming convention" />
+    </root>
+  </artifact>
+</component>
